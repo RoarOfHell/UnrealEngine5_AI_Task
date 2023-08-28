@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"Q:/Unreal Projects/AI_Task/Content/AI/Blueprints/BP_AI_Character.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/AI/Blueprints/AI_Patrol_Controller.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/AI/Blueprints/BT_Patrol.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/AI/Blueprints/BB_Patrol.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/Sounds/Cue/Explosion_Cue.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/Sounds/Atteneuation/AT_Sounds.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/AI/Blueprints/BD_HarassmentPlayer.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/XW/AR9LFPM1SSN0OZDVNPW7XY.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/AI/Blueprints/BT_FindRandomPointAtLocation.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/Sounds/Wav/Explosion.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/F2/PCAOPTDAZMF3S41QYG5H4I.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FX/QFKBGWZCU1DUCJFPVDPILH.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/AI/Blueprints/BT_CheckDistance.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/AI/Blueprints/BT_ExplosionChecked.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/AI/Blueprints/BT_GetExplosionLocation.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/MY/OW7NIR9EW45PX0V56AYKHK.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/UI/W_PlayerInterface.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/ThirdPerson/Blueprints/BP_ThirdController.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/ThirdPerson/Blueprints/BP_ThirdHUD.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/H4/Z24I0DAG8LBQM90460N3M1.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/interactionObject/BP_Button.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/BO/K26ZO67NNSYTIEEEYNUUU4.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/PT/J4KN83BOK0EMHNB18LSPF7.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/O3/KYZJDPDCYYF7GJA33XMOMH.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/A0/BZ37MQ483YSK3JJXFSX4OL.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/NZ/IFOTDCC1257ZYLIJ5WYCVM.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/IH/4CFJVSL1I3WM18XJFVE0V2.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/AI/Blueprints/AI_.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/JM/4XEL739S50W3G4QIM8WQ36.uasset",
+				"Q:/Unreal Projects/AI_Task/Content/Sounds/Explosion_Cue.uasset"
+			]
+		}
+	]
+}
